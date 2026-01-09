@@ -53,18 +53,16 @@ github. In this tutorial you will learn:
    ![](./assets/individual-create-newfile.png)
 
  3. After that you will be presented with a text editor.  
+    1. Put your github account's username as the file's name.
+    2. Fill the file with the following information
 
-   1. Put your github account's username as the file's name.
+       > Name:  
+       > Email:  
+       > Class:  
+       > Github Account:  
 
-   2. Fill the file with the following information
-
-      > Name:
-      > Email:
-      > Class:
-      > Github Account:
-
-   3. Click on the commit changes button
-   ![](./assets/individual-newfile-done.png)
+    3. Click on the commit changes button
+     ![](./assets/individual-newfile-done.png)
 
  4. Add a commit message. Make sure it has a meaningful message. Then click on the commit changes button to confirm.
    ![](./assets/individual-commit.png)
